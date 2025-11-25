@@ -29,8 +29,8 @@ Gateway 2:  11001000.00000001.00000010.11111110 => 200.1.2.254
 
 Numero massimo di host: 2^(32-12)-2 = 1.048.574
 
-Ottetti di rete: 1.5
-Ottetti di host: 2.5
+Ottetti di rete: 1
+Ottetti di host: 3
 
 
 
@@ -105,6 +105,7 @@ Numero massimo di host: 2^(32-16)-2 = 65534
 
 Ottetti di rete: 2
 Ottetti di host: 2
+
 
 
 
