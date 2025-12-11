@@ -1,0 +1,7 @@
+Cifrario di Cesare: EPICODE
+
+Non imbrogliare che me ne accorgo
+
+Anche se della seconda ho solo capito che è prima in base64 e poi cifrato con cesare, ma non saprei farlo su terminale senza tool.
+
+Per l'esercizio opzionale: allegato Screenshot
